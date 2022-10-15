@@ -6526,6 +6526,13 @@ let cards = [
     author: 'Marion',
     githubLink: 'https://github.com/marionjudy13'
   },
+   {
+    artName: 'Animatwist',
+    pageLink: './Art/Joy/Animatwist/index.html',
+    imageLink: './Art/Joy/Animatwist/twist.png',
+    author: 'Adedapo',
+    githubLink: 'https://github.com/dapsongbite'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
